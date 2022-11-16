@@ -36,3 +36,4 @@ So, edges in a fully undirected graph can be represented as:
 
 If a graph is fully directed, it is called a "Directed graph" or a "Digraph."
 
+[<-- DSA Table of Contents](../DSATOC.md)

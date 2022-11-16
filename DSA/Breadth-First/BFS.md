@@ -5,3 +5,5 @@
 - Breadth = broad || wide
 
 In other words, our algorithm will progress horizontally.
+
+[<-- DSA Table of Contents](../DSATOC.md)
