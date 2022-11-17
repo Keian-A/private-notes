@@ -8,9 +8,9 @@ All nodes must be accessible from the [root](./Root.md).
 
 Technically, in computer science, all trees are a type of graph. However, not all graphs can be a type of tree.
 
-There are different types of trees, which can determine the amount of *children* that any idividual parent node can have, as well as a type of tree that can be sorted dynamically as values are added.
+There are different types of trees:
 
 - [Binary Search Tree](./BST/BST.md)
-- K-ary Tree
+- [K-ary Tree]()
 
 [<-- DSA Table of Contents](../DSATOC.md)
