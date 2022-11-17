@@ -6,17 +6,9 @@ Graphs are similar to trees, but different in the connections.
 
 Notes from [video](https://www.youtube.com/watch?v=gXgEDyodOJU):
 
-Graph: A graph **G** is an *ordered pair* of a set **V** of vertices and a set **E** of edges.
+Graph: A graph **G** is an [ordered pair](./Ordered-Pair.md) of a set **V** of vertices and a set **E** of edges.
 
 G = (V,E)
-
-###### This is an **ordered pair** which means that order **does matter** when referring to the pair. This can be determined with parenthesis vs curly braces when written out.
-
-###### Ordered pair:
-###### - (a, b) != (b, a) if a != b
-
-###### Unordered pair:
-###### - {a, b} == {b, a}
 
 A graphs vertices can be represented as:
 - V = {v1, v2, v3, v4, v5, v6}
