@@ -22,3 +22,5 @@ docker-compose down --rmi all
 ```
 
 This is used to clean up our machine from the no-longer-used applications.
+
+[<-- Docker TOC](./DockerTOC.md)
