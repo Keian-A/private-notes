@@ -12,4 +12,6 @@ An image has *everything* that docker needs to run your application. Typically, 
 
 Once an image is created, docker uses that image to create a container.
 
+Each image contains a different version of your application.
+
 [<-- Docker TOC](./DockerTOC.md)
